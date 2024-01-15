@@ -1,2 +1,2 @@
 # Computer-Vision
-Compilation of small computer vision projects
+Compilation of small computer vision projects for better understanding of OpenCV
